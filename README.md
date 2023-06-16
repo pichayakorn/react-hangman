@@ -1,6 +1,6 @@
 # React TODO List
 
-✨ React/Typescript Project - Hangman Game by Web Dev Simplified [Web Dev Simplified](https://github.com/WebDevSimplified/react-hangman)
+✨ React/Typescript Project - Hangman Game by [Web Dev Simplified](https://github.com/WebDevSimplified/react-hangman)
 
 ## Available Scripts
 
